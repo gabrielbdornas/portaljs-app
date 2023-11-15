@@ -1,15 +1,14 @@
 ---
 title: 'My incredible dataset'
+author: 'Rufus Pollock'
+description: 'An incredible dataset displaying some awesome data'
+modified: '2023-05-04'
+files: ['my-incredible-data.csv']
 group: 'Incredible'
 ---
 
-This is my incredible dataset.
+Built with PortalJS
 
-## Chart
+## Table
 
-<LineChart
-    title="US Population By Decade"
-    xAxis="Year"
-    yAxis="Population (mi)"
-    data="my-incredible-data.csv"
-/>
+<Table url="my-incredible-data.csv" />
