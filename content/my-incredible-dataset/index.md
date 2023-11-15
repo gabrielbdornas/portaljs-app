@@ -1,4 +1,6 @@
-# My Incredible Dataset
+---
+title: 'My incredible dataset'
+---
 
 This is my incredible dataset.
 
