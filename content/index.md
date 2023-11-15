@@ -1,7 +1,7 @@
-# My Dataset
+# My Awesome Dataset
 
-Built with PortalJS 
+Built with PortalJS
 
-## Table 
+## Table
 
 <Table url="data.csv" />
