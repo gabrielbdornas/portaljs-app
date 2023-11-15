@@ -2,4 +2,4 @@
 
 List of available datasets:
 
-<Catalog datasets={datasets} />
+<Catalog datasets={datasets} facets={['group']}/>

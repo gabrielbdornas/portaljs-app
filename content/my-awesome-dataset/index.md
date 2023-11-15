@@ -1,5 +1,6 @@
 ---
 title: 'My awesome dataset'
+group: 'Awesome'
 ---
 
 Built with PortalJS

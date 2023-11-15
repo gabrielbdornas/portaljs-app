@@ -1,5 +1,6 @@
 ---
 title: 'My incredible dataset'
+group: 'Incredible'
 ---
 
 This is my incredible dataset.
