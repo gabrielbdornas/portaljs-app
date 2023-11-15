@@ -1,3 +1,7 @@
+---
+title: 'My awesome dataset'
+---
+
 # My Awesome Dataset
 
 Built with PortalJS
